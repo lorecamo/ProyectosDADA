@@ -1,3 +1,4 @@
 # ProyectosDADA
 Proyectos DADA
-# MHEST_MDEI
+# Proyectos de la Maestría en Hábitat y Equidad Socioterritorial
+# Proyectos de la Maestría en Diseño Estratégico e Innovación
